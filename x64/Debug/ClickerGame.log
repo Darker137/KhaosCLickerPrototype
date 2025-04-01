@@ -1,0 +1,15 @@
+﻿  ClickerGame.cpp
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\ClickerGame\ClickerGame.cpp(19,42): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\ClickerGame\ClickerGame.cpp(19,27): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+  Player.cpp
+  UserInterface.cpp
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\ClickerGame\UserInterface.cpp(25,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\ClickerGame\UserInterface.cpp(29,47): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\ClickerGame\UserInterface.cpp(43,106): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\ClickerGame\UserInterface.cpp(43,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\ClickerGame\UserInterface.cpp(44,145): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\ClickerGame\UserInterface.cpp(44,82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\ClickerGame\UserInterface.cpp(45,177): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\ClickerGame\UserInterface.cpp(45,86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  ClickerGame.vcxproj -> C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\x64\Debug\ClickerGame.exe

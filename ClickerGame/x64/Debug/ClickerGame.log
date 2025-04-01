@@ -1,0 +1,4 @@
+﻿  ClickerGame.cpp
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\ClickerGame.cpp(23,42): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\ClickerGame.cpp(23,27): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+  ClickerGame.vcxproj -> C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\x64\Debug\ClickerGame.exe

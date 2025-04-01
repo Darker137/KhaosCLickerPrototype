@@ -1,0 +1,50 @@
+﻿  ClickerGame.cpp
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\ClickerGame.cpp(23,42): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\ClickerGame.cpp(23,27): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+  Cursor.cpp
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\Cursor.cpp(10,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GeneralFunctions.cpp
+  Khaos.cpp
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\Khaos.cpp(17,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Player.cpp
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\Player.cpp(54,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\Player.cpp(54,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Egg.cpp
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\Egg.cpp(59,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\Egg.cpp(60,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  TitleScreen.cpp
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\TitleScreen.cpp(70,94): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\TitleScreen.cpp(70,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Towers.cpp
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\Towers.cpp(4,116): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\Towers.cpp(4,143): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\Towers.cpp(13,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\Towers.cpp(48,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\Towers.cpp(84,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  UserInterface.cpp
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\UserInterface.cpp(8,47): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\UserInterface.cpp(13,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\UserInterface.cpp(19,56): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\UserInterface.cpp(21,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\UserInterface.cpp(44,106): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\UserInterface.cpp(44,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\UserInterface.cpp(46,172): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\UserInterface.cpp(46,110): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\UserInterface.cpp(48,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\UserInterface.cpp(48,207): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\UserInterface.cpp(48,116): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\UserInterface.cpp(58,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\UserInterface.cpp(58,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\UserInterface.cpp(58,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\UserInterface.cpp(58,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\UserInterface.cpp(95,93): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\UserInterface.cpp(95,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\UserInterface.cpp(96,93): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\UserInterface.cpp(96,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\UserInterface.cpp(101,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\ClickerGame\GeneralFunctions.cpp(41): warning C4715: 'CheckForClick': not all control paths return a value
+  All 347 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ClickerGame.vcxproj -> C:\UniWork\Year2\Year2 Term2\Portfolio\ClickerGame\x64\Release\ClickerGame.exe
